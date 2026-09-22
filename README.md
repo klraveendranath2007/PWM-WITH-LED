@@ -1,6 +1,7 @@
 # PWM-WITH-LED
+## Aim
 Configure an FTM channel in edge-aligned PWM mode to flash an LED at exactly 1 Hz with 50% duty cycle. 
----
+
 
 ## Apparatus Required
 
