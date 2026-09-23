@@ -34,15 +34,7 @@ Configure an FTM channel in edge-aligned PWM mode to flash an LED at exactly 1 H
 ---
 
 ## OUTPUT
-
-
-
-
-
-
-
----
-
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/bc301a63-d93c-4ce9-ba5b-f071b09b139d" />
 ## Result
 
 The **FTM channel was successfully configured in Edge-Aligned PWM mode**. The LED flashed at **1 Hz with a 50% duty cycle**, with approximately **0.5 seconds ON and 0.5 seconds OFF**, and the PWM output was successfully verified.
